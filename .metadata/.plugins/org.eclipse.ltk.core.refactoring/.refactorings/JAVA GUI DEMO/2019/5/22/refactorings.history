@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WDIN.java&apos; to &apos;Trail java/src/defaul&apos;&#x0D;&#x0A;- Original project: &apos;JAVA GUI DEMO&apos;&#x0D;&#x0A;- Destination element: &apos;Trail java/src/defaul&apos;&#x0D;&#x0A;- Original element: &apos;WDIN.java&apos;" description="Copy compilation unit" destination="=Trail java/src&lt;defaul" element1="/src&lt;{WDIN.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1558967381333" units="1" version="1.0"/>
+</session>
