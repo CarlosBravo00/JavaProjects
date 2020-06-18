@@ -1,0 +1,69 @@
+
+**** Error file opened at 20200114 155004 Central Standard Time Rel. 3.1.2 (2019-10-02) [753.512]
+Error:     >Tue Jan 14 15:50:04,092<    RfcException raised by system [<unknown>]:
+	message: Connect to SAP gateway failed
+	Connection parameters: TYPE=A DESTINATION=ABAP_AS1 ASHOST=abap_host_name SYSNR=00 PCS=1 SERIALIZATION_FORMAT=columnBased NETWORK=LAN
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'abap_host_name' unknown
+TIME        Tue Jan 14 15:50:04 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/ninti.c
+LINE        898
+DETAIL      NiPGetHostByName: 'abap_host_name' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20200114 155017 Central Standard Time Rel. 3.1.2 (2019-10-02) [753.512]
+Error:     >Tue Jan 14 15:50:17,876<    RfcException raised by system [<unknown>]:
+	message: Connect to SAP gateway failed
+	Connection parameters: TYPE=A DESTINATION=ABAP_AS1 ASHOST=abap_host_name SYSNR=00 PCS=1 SERIALIZATION_FORMAT=columnBased NETWORK=LAN
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'abap_host_name' unknown
+TIME        Tue Jan 14 15:50:17 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/ninti.c
+LINE        898
+DETAIL      NiPGetHostByName: 'abap_host_name' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20200114 155400 Central Standard Time Rel. 3.1.2 (2019-10-02) [753.512]
+Error:     >Tue Jan 14 15:54:00,960<    RfcException raised by system [<unknown>]:
+	message: Connect to SAP gateway failed
+	Connection parameters: TYPE=A DESTINATION=ABAP_AS1 ASHOST=abap_host_name SYSNR=00 PCS=1 SERIALIZATION_FORMAT=columnBased NETWORK=LAN
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'abap_host_name' unknown
+TIME        Tue Jan 14 15:54:00 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      D:/depot/bas/753_REL/src/base/ni/ninti.c
+LINE        898
+DETAIL      NiPGetHostByName: 'abap_host_name' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
