@@ -1,2 +1,2 @@
 # JavaProjects
-Small Jave Projects 
+Small Java Projects 
